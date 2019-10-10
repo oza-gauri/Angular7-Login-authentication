@@ -1,0 +1,54 @@
+body {
+    font: 20px Montserrat, sans-serif;
+    line-height: 1.8;
+    color: #000;
+  }
+  p {font-size: 16px;}
+  .margin {margin-bottom: 45px;}
+    .bg-1{
+    color: #000;
+    margin-top: -5px;
+  }
+  .bg-2 { 
+    color: #ffffff;
+  }
+  .bg-3 { 
+    background-color: #ffffff; 
+    color: #555555;
+  }
+  .bg-4 { 
+    background-color: #2f2f2f; 
+    color: #fff;
+  }
+  .container-fluid {
+    padding-top: 10px;
+  }
+  /* Navbar */
+  .navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 25px;
+    letter-spacing: 5px;
+    background-color: #2f2f2f;  
+  }
+  .navbar-nav  li a:hover {
+    color: #1abc9c !important;
+  }
+  .navbar-header {
+    font-size: 22px;
+    padding-top: 10px;    
+  }
+  button{
+    height: 100%;
+  }
+  img {
+    max-width: 100%;
+    max-height: 100%;
+}
+/* Footer */
+  footer{
+     margin-top: 5px; 
+}

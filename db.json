@@ -1,0 +1,29 @@
+{
+  "details": [
+    {
+      "username": "harry",
+      "email": "harry@aress.in",
+      "password": "password1",
+      "userRole":"Admin"
+    },
+    {
+      "username": "potter",
+      "email": "potter@aress.in",
+      "password": "password2",
+      "userRole":"Candidate"
+    },
+    {
+      "username": "lily",
+      "email": "lily@aress.in",
+      "password": "password3",
+      "userRole":"Admin"
+    }
+    
+  ],  
+	"users": [
+		{"username":"harry","email":"harry@aress.in","password":"password1","userRole":"Admin"},
+		{"username":"potter","email":"potter@aress.in","password":"password2","userRole":"Candidate"},
+		{"username":"lily","email":"lily@aress.in","password":"password3","userRole":"Admin"}
+  ]
+
+}

@@ -1,0 +1,35 @@
+ button{
+    background: rgb(1, 29, 51);
+    border-color: transparent;
+    color: #fff;
+    cursor: pointer;
+    margin-left: 36%;
+    width: 25%;
+    height: 15%;
+    padding: 10px;
+    font-size: 20px;
+    letter-spacing: 3px;
+} 
+.row.content {height: 100%;}
+.sidenav {
+    background-color: #f1f1f1;
+    height: 100%;
+}    
+@media screen and (max-width: 767px) {
+  .row.content {height: 100%;} 
+}
+.container-fluid {
+    padding-top: 10px;
+    height: 100%;
+}
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+.jumbotron {
+    margin-bottom: 0;
+}
+footer{
+    margin-top:10px;
+    margin-bottom: 20px;
+}
